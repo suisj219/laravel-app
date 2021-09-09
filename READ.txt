@@ -2,9 +2,15 @@
 
 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
 
+>git remote add origin https://github.com/suisj219/laravel-app.git
+
+>git remote set-url origin https://github.com/suisj219/laravel-app.git
+
 >git remote add origin https://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@github.com/suisj219/laravel-app.git
 
 >git remote set-url origin https://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@github.com/suisj219/laravel-app.git
+
+>git remote add origin https://suisj219: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@github.com/suisj219/laravel-app.git
 
 >git remote set-url origin  https://suisj219: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@github.com/suisj219/laravel-app.git
 
@@ -17,4 +23,4 @@ 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
 >git push  -f origin master
 
 
->git pull https://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l@github.com/suisj219/laravel-app.git
+>git pull https://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@github.com/suisj219/laravel-app.git
