@@ -24,3 +24,4 @@ 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
 
 
 >git pull https://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@github.com/suisj219/laravel-app.git
+
